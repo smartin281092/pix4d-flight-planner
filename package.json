@@ -25,7 +25,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"leaflet": "^1.9.2",
-		"ol": "^7.1.0"
+		"leaflet": "^1.9.2"
 	}
 }
