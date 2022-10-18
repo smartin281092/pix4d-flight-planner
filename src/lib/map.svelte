@@ -232,6 +232,7 @@
         color: rgba(255,255,255,0.6);
         text-align: center;
         margin: 10px 0px;
+        cursor: pointer;
     }
     .old-path::after {
         background: rgba(255,255,255,0.2);
@@ -245,6 +246,7 @@
         text-align: center;
         font-weight: 700;
         color: rgba(255,255,255,0.8);
+        cursor: pointer;
     }
     .underline-save {
         width: calc(100% + 10px);
